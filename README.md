@@ -1,6 +1,7 @@
 
 
-Numpy Question Bank and Data Analysis
+**Numpy Question Bank and Data Analysis**
+
 Welcome to the Numpy Question Bank and Data Analysis repository! Here you'll find a comprehensive collection of 100 questions covering various aspects of Numpy, along with detailed mathematical solutions and practical data analysis examples.
 
 Table of Contents
